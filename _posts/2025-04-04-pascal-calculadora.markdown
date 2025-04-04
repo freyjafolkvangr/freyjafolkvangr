@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Controlando la pierna de un robot humanoide con Raspberry Pi y C++"
+title: "Calculadora en Pascal"
 date: 2025-04-04
-categories: robotics raspberrypi c++
+categories: programming pascal
 ---
  
 # Calculadora Gráfica en Pascal
