@@ -9,9 +9,8 @@ En su libro *Yo soy*, Jiddu Krishnamurti reflexiona profundamente sobre el dolor
 
 Krishnamurti nos invita a no huir del dolor, sino a enfrentarlo con una mente abierta y sin juicios. Solo así podemos descubrir su origen y liberarnos de las cadenas que nos atan a él.
 
-> "El dolor no es algo que deba evitarse, sino algo que debe comprenderse profundamente."
+"El dolor no es algo que deba evitarse, sino algo que debe comprenderse profundamente."
 
 ¿Qué opinas sobre esta perspectiva? ¿Cómo enfrentas tú el dolor en tu vida?
 
----
-```
+ 
