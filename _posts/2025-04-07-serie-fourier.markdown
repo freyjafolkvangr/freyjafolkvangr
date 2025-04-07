@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Serie de Fourier de onda cuadrada "
+date: 2025-04-07
+categories: [matematicas, series-fourier]
+---
+
 ## Serie de Fourier en MATLAB
 
 En esta página, mostramos cómo graficar una serie de Fourier utilizando MATLAB. A continuación, se presenta el código y el resultado esperado.

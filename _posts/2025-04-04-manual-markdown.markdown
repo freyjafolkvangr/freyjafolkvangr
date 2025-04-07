@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Editorial: She-Ra and the Princess of Power"
+title: "Manual de Markdown"
 date: 2025-04-04
 ---
  
