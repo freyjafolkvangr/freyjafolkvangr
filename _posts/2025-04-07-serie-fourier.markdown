@@ -44,3 +44,6 @@ La gráfica muestra la función original (onda cuadrada) en color rojo y la apro
 - Puedes modificar la función `f` y los parámetros para adaptarlo a tus necesidades.
 - Asegúrate de tener MATLAB instalado para ejecutar este código.
 
+### Imagen
+
+![img](img/img_fourier.jpg)
