@@ -46,4 +46,4 @@ La gráfica muestra la función original (onda cuadrada) en color rojo y la apro
 
 ### Imagen
 
-![img](img/img_fourier.jpg)
+![img](img/img_fourier.gif)
